@@ -3,4 +3,4 @@
 ローカルリポで変更  
 rebase-practice上で更新(rebaseコンフリクト用)
 rebase-pull用 on GitHub
-stash練習( トラック済 )
+stash練習(2nd change)
